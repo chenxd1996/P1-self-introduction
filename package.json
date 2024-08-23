@@ -1,7 +1,7 @@
 {
   "name": "p1-self-introduction",
   "version": "1.0.0",
-  "description": "## 项目简介",
+  "description": "",
   "main": "scripts/dev.js",
   "scripts": {
     "start": "node scripts/dev.js"
